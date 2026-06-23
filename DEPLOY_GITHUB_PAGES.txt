@@ -1,0 +1,14 @@
+PIGGY GOLD - GITHUB PAGES FLAT FIX
+
+Semua file di folder ini sengaja diletakkan di ROOT.
+Upload seluruh isi folder ini langsung ke root repository GitHub.
+Jangan masukkan lagi ke folder assets/css/js karena path sudah disesuaikan menjadi flat.
+
+Setelah upload:
+1. Settings > Pages
+2. Source: Deploy from a branch
+3. Branch: main
+4. Folder: / (root)
+5. Save
+6. Tunggu 1-3 menit lalu buka URL Pages.
+7. Hard refresh: Ctrl + F5
